@@ -1,3 +1,8 @@
+/*  
+    Julian Camilo Cruz Sanchez
+    jcruzsa19879@universidadean.edu.co
+    Ingeniería de Sistemas
+*/
 Rem $Header: bi_views.sql 2015/03/19 10:23:26 smtaylor Exp $
 Rem
 Rem Copyright (c) 2002, 2015, Oracle Corporation.  All rights reserved.  
